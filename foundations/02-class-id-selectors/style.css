@@ -1,0 +1,19 @@
+.small{
+    background-color: rgb(255, 136, 136); 
+    font-family: DejaVu sans, Verdana, sans-serif;
+}
+
+.medium{
+    font-size: 24px;
+}
+
+#no2{
+    font-size: 36px; 
+    color:rgb(0, 0, 255);
+}
+
+#no4{
+    font-weight: bold;
+    font-size: 24px;
+    background-color:rgb(21, 255, 0) ;
+}
